@@ -1,6 +1,5 @@
 # Export of the World Cube Association results database
 
-| WCA results export |  |
 | --------- | ---------- |
 | Date | July 6, 2017 |
 | Remarks: | none |

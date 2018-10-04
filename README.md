@@ -28,6 +28,7 @@ but only under the following conditions:
     from the official WCA website
 
 ## Software created by:
+| - | - |
 | ClÈment Gallet | France |
 | Stefan Pochmann | Germany |
 | Josef Jelinek | Czech Republic |

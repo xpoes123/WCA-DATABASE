@@ -1,15 +1,17 @@
-Export of the World Cube Association results database
+# Export of the World Cube Association results database
 
-Date:     July 6, 2017
-Remarks:  none
-Contact:  WCA Results Team results@worldcubeassociation.org
-Website:  https://www.worldcubeassociation.org/results
+|  |  |
+| --------- | ---------- |
+| Date | July 6, 2017 |
+| Remarks: | none |
+| Contact: | WCA Results Team results@worldcubeassociation.org |
+| Website: | https://www.worldcubeassociation.org/results |
 
-Description:
+## Description:
   This file contains public information on all official WCA competitions,
   WCA members and WCA competition results.
 
-Goal:
+## Goal:
   Goal of this file is for members of our community to do analysis on the
   information for statistical and personal purposes.
 
@@ -27,14 +29,15 @@ but only under the following conditions:
   - The style and format of the information must be clearly distinguishable
     from the official WCA website
 
-Software created by:
-  ClÈment Gallet    France
-  Stefan Pochmann   Germany
-  Josef Jelinek     Czech Republic
-  Ron van Bruchem   Netherlands
+## Software created by:
+| - | - |
+| ClÈment Gallet | France |
+| Stefan Pochmann | Germany |
+| Josef Jelinek | Czech Republic |
+| Ron van Bruchem | Netherlands |
 
 
-The export consists of these tables:
+# The export consists of these tables:
   Persons        WCA competitors
   Competitions   WCA competitions
   Events         WCA events (Rubik's Cube, Megaminx, etc)
@@ -56,7 +59,7 @@ that no longer exist.  The ISO2 column should reflect ISO 3166-1 alpha-2
 country codes, for countries that have them.  Custom codes may used in some
 circumstances.
 
-Result values of the Results table can be interpreted as follows:
+# Result values of the Results table can be interpreted as follows:
 - The result values are in fields value1-value5, best and average.
 - Value -1 means DNF
 - Value -2 means DNS

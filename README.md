@@ -1,6 +1,8 @@
-# WCA results export
+# Export of the World Cube Association results database
 
-| Date:| July 6, 2017 |
+| WCA results export |  |
+| --------- | ---------- |
+| Date | July 6, 2017 |
 | Remarks: | none |
 | Contact: | WCA Results Team results@worldcubeassociation.org |
 | Website: | https://www.worldcubeassociation.org/results |

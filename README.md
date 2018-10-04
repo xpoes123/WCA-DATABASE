@@ -1,5 +1,6 @@
 # Export of the World Cube Association results database
 
+|  |  |
 | --------- | ---------- |
 | Date | July 6, 2017 |
 | Remarks: | none |
